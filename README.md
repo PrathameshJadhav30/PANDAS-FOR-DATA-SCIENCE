@@ -11,3 +11,11 @@ To use pandas, you'll need to have Python installed on your machine. You can ins
 
 ```bash
 pip install pandas
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
