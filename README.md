@@ -6,11 +6,10 @@ Pandas is a powerful and flexible open-source data manipulation library for Pyth
 This repository contains various tutorials and examples to help you get started with pandas and to demonstrate its capabilities in real-world data science scenarios.
 
 ## Installation
+        To use pandas, you'll need to have Python installed on your machine. You can install pandas using pip:
 
-To use pandas, you'll need to have Python installed on your machine. You can install pandas using pip:
-
-```bash
-pip install pandas
+        ```bash
+        pip install pandas
 
 ## Contact
 
